@@ -1,3 +1,3 @@
-42 / 6
+result = 42 / 6  
 
-42 / 0
+puts result
